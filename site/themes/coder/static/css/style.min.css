@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 
 a:focus,
 a:hover,
@@ -19,7 +19,7 @@ h4,
 h5,
 h6 {
     letter-spacing: .0625em;
-    font-weight: black;
+    font-weight: bold;
 }
 
 pre,
@@ -111,7 +111,6 @@ a {
 p {
     margin: 1.6rem 0;
     color: #fff;
-    opacity: 0.5;
 }
 
 p a {
@@ -137,10 +136,6 @@ h6 {
 h1 {
     font-size: 3.2rem;
     line-height: 3.2rem
-}
-
-h1.title {
-  opacity: 0.5;
 }
 
 h2 {
@@ -264,6 +259,10 @@ img {
     padding-right: 2rem
 }
 
+.date {
+  opacity: 0.5;
+}
+
 .navigation {
     height: 6rem;
     width: 100%
@@ -299,6 +298,10 @@ img {
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:768px) {
+    .navigation-link {
+        color: #404041;
+    }
+
     .navigation a {
         font-size: 1.6rem
     }
@@ -369,7 +372,8 @@ img {
 
 .content article header {
     margin-top: 3.2rem;
-    margin-bottom: 3.2rem
+    margin-bottom: 3.2rem;
+    text-align: center;
 }
 
 .content article header h1,
@@ -403,7 +407,7 @@ img {
 }
 
 .list ul li {
-    font-size: 1.6rem
+    font-size: 1.6rem;
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
