@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 
-:root {
-    --vh: 100vh; 
-}
-
 a:focus,
 a:hover,
 p a {
@@ -252,6 +248,7 @@ img {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  height: 100vh;
   /* This is how to trick Viewport Units on mobile */
   height: calc(var(--vh, 1vh) * 100);
   width: 100%
