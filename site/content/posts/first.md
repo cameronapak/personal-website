@@ -1,7 +1,6 @@
 ---
-title: "First"
-date: 2018-08-03T22:12:00-05:00
-draft: false
+title: First
+date: 2018-08-04T03:12:00.000Z
+thumbnail: /images/uploads/lc-placeholder.png
 ---
-
-This is cool!
+Can I really change this?
