@@ -248,6 +248,8 @@ img {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  /* This is how to trick Viewport Units on mobile */
+  height: calc(var(--vh, 1vh) * 100);
   width: 100%
 }
 
