@@ -2,9 +2,7 @@
 layout: blog
 title: The 7 Questions
 date: 2018-08-04T06:38:15.781Z
-categories:
-  - God
-  - Hannah
+categories: God
 ---
 If you want a satisfying relationship that withholds nothing and honors Christ, take some time with your spouse/boyfriend or girlfriend  to ask these questions every week. Jefferson Bethke and his wife provided this template. I know that asking these questions from the beginning of my relationship with Hannah has provided a solid foundation and culture of trust and love.
 
