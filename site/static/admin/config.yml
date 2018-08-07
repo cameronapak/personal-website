@@ -20,4 +20,4 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", required: false, widget: "list" }
-      - {label: "Categories", name: "categories", required: false, widget: "select", allow_add: false, options: ["God", "Hannah", "Learn", "Connect", "Adventure"] }
+      - {label: "Categories", name: "categories", required: false, widget: "select", allow_add: false, options: ["God", "Hannah", "Learn", "Connect", "Adventure", "Book"] }
