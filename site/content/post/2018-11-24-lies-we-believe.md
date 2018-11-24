@@ -6,7 +6,7 @@ tags:
   - ''
 categories: God
 ---
-Here are some lies that we sometimes believe. This was sent to me by my counselor, and I wanted to share it with you. The author is unknown at the moment.
+_Here are some lies that we sometimes believe. This was sent to me by my counselor, and I wanted to share it with you. The author is unknown at the moment._
 
 **1. I must be perfect.**
 
