@@ -8,13 +8,13 @@ categories: God
 ---
 _Here are some lies that we sometimes believe. This was sent to me by my counselor, and I wanted to share it with you. The author is unknown at the moment._
 
-__
+- - -
 
 **1. I must be perfect.**
 
 We all make mistakes; it is just part of being human.  Perfectionists set unrealistically high standards, which guarantees failure.  It creates depression and/or anxiety and if applied to relationships, it creates stress and strain with the person.  Typically, they think it works in their favor and if they lower their standards, they will become a slob or worthless.  It is a proven fact that encouraged people are much more successful than discouraged and perfectionists will always ultimately end up discouraged.  Sometimes perfectionists believe that if they could just be perfect then people will love or accept them and if they are not perfect then people will abandon them.
 
-
+- - -
 
 **2. I must have everyone else's love and approval.**
 
