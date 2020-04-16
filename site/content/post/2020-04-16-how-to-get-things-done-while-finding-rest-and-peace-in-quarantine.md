@@ -22,7 +22,7 @@ If you have enough time, take a quick, uninterrupted walk outside. These easy ex
 
 * [YouVersion Bible App](https://bible.com/app)
 * [Pause App](https://www.pauseapp.com/)
-* [Headspace](headspace.com)
+* [Headspace](https://www.headspace.com)
 * [Soulspace](https://soulspace.co/)
 
 ### ...To Be Continued
