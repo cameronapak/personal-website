@@ -8,7 +8,7 @@ categories: Learn
 
 Many people are working remote at home during this time to stay safe from the coronavirus. Yet many people were not ready for how different it is to work from home instead of the workplace. I’ve been there, and being overwhelmed and anxious during the workday is not fun or productive. I have some tips and resources to share that have been effective in helping me get things done while remaining calm. I hope these resources help you find freedom.
 
-### How to Find Peace
+### Find Peace
 
 You want to get things done. Good! What if you're overwhelmed? Well, then your focus takes a hit. If you can’t focus, you are not effective in getting things done. This is an unhealthy cycle that needs to be come to an end.
 
@@ -24,8 +24,6 @@ If you have enough time, take a quick, uninterrupted walk outside. These easy ex
 * [Pause App](https://www.pauseapp.com/)
 * [Headspace](headspace.com)
 * [Soulspace](https://soulspace.co/)
-
-
 
 ### ...To Be Continued
 
