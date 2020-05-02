@@ -3,7 +3,8 @@
   <ul>
     {{ range .Paginator.Pages }}
     <li>
-      <span class="date">{{ .Date.Format "January 2, 2006" }}</span><a class="post-title" href="{{ .URL }}">{{ .Title }}</a>
+      <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+      <a class="post-title" href="{{ .URL }}">{{ .Title }}</a>
     </li>
     {{ end }}
   </ul>
