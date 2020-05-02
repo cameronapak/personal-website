@@ -316,8 +316,7 @@ img {
 }
 
 .navigation ul li a {
-    margin-left: 1rem;
-    margin-right: 1rem
+    margin: 0 1rem;
 }
 
 #menu-control,
@@ -433,6 +432,12 @@ img {
 @media only screen and (max-device-width:768px) {
     .avatar img {
         width: 10rem
+    }
+
+    .navigation ul li a {
+        margin: 0 1rem;
+        display: block;
+        box-sizing: border-box;
     }
 }
 
