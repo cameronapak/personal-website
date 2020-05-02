@@ -50,6 +50,7 @@ html {
     box-sizing: border-box;
     font-size: 62.5%;
     overflow: hidden;
+    height: 100%;
 }
 
 body {
@@ -66,6 +67,7 @@ body {
     font-weight: 400;
     line-height: 1.8em;
     overflow: auto;
+    height: 100%;
 }
 
 @-webkit-keyframes changeBackground {
